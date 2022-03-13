@@ -6,7 +6,7 @@ function About() {
         <MainLayout>
             <DocumentTitle title="ກ່ຽວ​ກັບ​ເຮົາ" />
             {/*sai youtube*/}
-            { <iframe width={'100%'} height={600} src="https://www.youtube.com/embed/SwvAGEGRcoY" title="YouTube video player" frameBorder={0} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> }
+            {/* <iframe width={'100%'} height={600} src="https://www.youtube.com/embed/SwvAGEGRcoY" title="YouTube video player" frameBorder={0} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
 
         <div>
             <div className="jumbotron pt-5">
